@@ -1,2 +1,2 @@
 # Sports Analytics 
-This repository will contain data, scripts, and analysis pertaining to sports. 
+This repository will contain data, notebooks, and analysis pertaining to sports. 
