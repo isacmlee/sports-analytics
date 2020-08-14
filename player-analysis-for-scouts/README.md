@@ -1,4 +1,4 @@
-# What type of players should scouts/recruiters look for? 
+# Exploring the Ideal NBA Player
 You can find the project's notebook [here](https://nbviewer.jupyter.org/github/isacmlee/sports-analytics/blob/master/player-analysis-for-scouts/player-analysis-for-scouts.ipynb).
 
 ![banner](images/banner.jpg)
