@@ -33,7 +33,7 @@ Based on our data, the **ideal NBA player is 255 .lb, 21 - 22.5 year old Center 
 
 ![colleges](images/colleges)
 
-louisiana Tech came up on top. It is important to realize that this can change because we did probabilistic imputation. However, because it follows the distribution of the data, it is likely that only the top 5 with switch with each other. Furthermore, when we look in the NBA, we usually do not see big name Louisiana Tech alumni. This goes to show that stats do not necessarily indicate good predictive power. On the other hand, it could mean that Louisiana Tech players are underrated by most people.
+Louisiana Tech came up on top. It is important to realize that this can change because we did probabilistic imputation. However, because it follows the distribution of the data, it is likely that only the top 5 with switch with each other. Furthermore, when we look in the NBA, we usually do not see big name Louisiana Tech alumni. This goes to show that stats do not necessarily indicate good predictive power. On the other hand, it could mean that Louisiana Tech players are underrated by most people.
 
 
 3. **How have basketball roles changed over the years?** We will analyze 4 characteristics by position and how they changed over time: player win score, 3 point attempts, weight and height. The first two deal with the technical aspects of the game while the last two deal with the physicality. 
