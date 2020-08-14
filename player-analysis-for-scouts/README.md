@@ -19,7 +19,7 @@ Moreover, we will answer these 3 questions to get a better idea of the ideal NBA
 3. **How have basketball roles changed over the years?**
     - For example, if we notice that Centers are becoming more technical over the years, recruiters will want to look for a Center that possesses that technical ability. 
     
-## Conclusions
+## Analysis
 #### The Ideal Player
 Based on our data, the **ideal NBA player is 255 .lb, 21 - 22.5 year old Center from Louisiana Tech University**. 
 
