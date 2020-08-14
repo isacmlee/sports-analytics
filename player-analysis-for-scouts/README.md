@@ -23,7 +23,7 @@ Moreover, we will answer these 3 questions to get a better idea of the ideal NBA
 #### The Ideal Player
 Based on our data, the **ideal NBA player is 255 .lb, 21 - 22.5 year old Center from Louisiana Tech University**. 
 
-#### Breakdown of Analysis
+#### Breakdown 
 1. **What is the average career length a player has? Does it change based on the age started?** To answer this question, we found the frequencies of each career length first. Interestingly, we discovered there was a high frequency of players who had 0 - 4 years of basketball. This seemed very unsual as the average retiring age in the NBA is 36 - 39. Did players get injuries? Were they not good enough to continue in the NBA, so they left to another league? Or did they retire early? We further explored if there was a correlation between the age they started and the career length. We did discover a correlation, and while this may seem intuitive, we also found that those who started around 24 had an average career length of 5 years. This would mean they would retire around 29, far from the average NBA retirement age. As a result, we concluded that 21 - 22.5 was the best age to target. 
 
 ![career_age](images/career_age.png)
