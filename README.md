@@ -1,5 +1,5 @@
 # Exploring the Ideal NBA Player
-You can find the project's notebook [here](https://nbviewer.jupyter.org/github/isacmlee/sports-analytics/blob/master/player-analysis-for-scouts/player-analysis-for-scouts.ipynb).
+You can find the project's notebook [here](https://github.com/isacmlee/ideal-nba-player-analysis/blob/master/Exploring%20the%20Ideal%20NBA%20Player.ipynb).
 
 ![banner](images/banner.jpg)
 ## Introduction
